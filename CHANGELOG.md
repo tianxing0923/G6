@@ -1,5 +1,18 @@
 # ChangeLog
 
+#### 4.1.4
+
+- fix: drag-canvas with touch on mobile;
+
+#### 4.1.2
+
+- fix: registerBehavior export problem;
+- fix: shouldEnd of create-edge with groupByTypes as false;
+- fix: collapse and expand a combo with an empty sub combo error;
+- fix: update padding of rect combo;
+- fix: the graph in the minimap with circular layout is not centered, closes: #2555;
+- fix: edge background displays on a wrong place when autoRotate is true;
+
 #### 4.1.1
 
 - fix: soomth-convex hull with one line nodes leads to unshift problem;
